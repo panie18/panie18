@@ -1,6 +1,9 @@
 # Hi there, I’m Panie18 👋
 
-I'm a student from Vienna and I love tech.
+[![GitHub stars](https://img.shields.io/github/stars/panie18/umbrel-community-app-store?style=social)](https://github.com/panie18/umbrel-community-app-store/stargazers)  
+[![Follow on Instagram](https://img.shields.io/badge/follow%20on-Instagram-%23E4405F?style=social&logo=instagram)](https://instagram.com/pauli.li)
+
+Welcome to my GitHub profile! I’m a student from Vienna, Austria and I love tech.
 
 ---
 
@@ -46,9 +49,9 @@ I'm a student from Vienna and I love tech.
 
 ## 📫 Get in Touch
 
-- Instagram: [@pauliii1807](https://instagram.com/pauliii1807)  
 - Email: hello@pauli.li  
 - Website: https://pauli.li  
+- Instagram: [@pauli.li](https://instagram.com/pauli.li)  
 
 ---
 

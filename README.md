@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I’m a student from Vienna, Austria and I love te
 
 - Email: hello@pauli.li  
 - Website: https://pauli.li  
-- Instagram: [@pauli.li](https://instagram.com/pauli.li)  
+- Instagram: [@pauliii1807](https://instagram.com/pauliii1807)  
 
 ---
 

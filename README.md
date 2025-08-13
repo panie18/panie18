@@ -1,9 +1,8 @@
-# Hi there, I’m Panie18 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi there, I’m Pauli 👋
 [![GitHub stars](https://img.shields.io/github/stars/panie18/umbrel-community-app-store?style=social)](https://github.com/panie18/umbrel-community-app-store/stargazers)  
 [![Follow on Instagram](https://img.shields.io/badge/follow%20on-Instagram-%23E4405F?style=social&logo=instagram)](https://instagram.com/pauli.li)
 
-Welcome to my GitHub profile! I’m a developer passionate about open source, community projects, and building tools that make life easier. Here you’ll find my projects, stats, contributions, and interests in one place.
-
+Welcome to my GitHub profile! I'm a student from Vienna, Austria and I love tech!
 ---
 
 ## 📈 GitHub Stats

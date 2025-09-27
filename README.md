@@ -1,6 +1,6 @@
 # Hi there, I’m Pauli 👋
 [![GitHub stars](https://img.shields.io/github/stars/panie18/umbrel-community-app-store?style=social)](https://github.com/panie18/umbrel-community-app-store/stargazers)  
-[![Follow on Instagram](https://img.shields.io/badge/follow%20on-Instagram-%23E4405F?style=social&logo=instagram)](https://instagram.com/pauli.li)
+[![Follow on Instagram](https://img.shields.io/badge/follow%20on-Instagram-%23E4405F?style=social&logo=instagram)](https://instagram.com/pauliii1807)
 
 Welcome to my GitHub profile! I'm a student from Vienna, Austria and I love tech!
 ---

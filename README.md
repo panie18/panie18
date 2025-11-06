@@ -36,6 +36,9 @@ Welcome to my GitHub profile! I'm a student from Vienna, Austria and I love tech
 <details>
   <summary>Click to expand 👇</summary>
   <p align="center">
+    <a href="https://github.com/panie18/crumbpanel">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=panie18&repo=crumbpanel&theme=github_dark" alt="crumbpanel" />
+    </a>
     <a href="https://github.com/panie18/umbrel-community-app-store">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=panie18&repo=umbrel-community-app-store&theme=github_dark" alt="umbrel-community-app-store" />
     </a>
